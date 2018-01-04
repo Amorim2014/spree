@@ -1,0 +1,9 @@
+#logo {
+    width: auto;
+    height: 25px;
+}
+
+.navbar-inverse {
+    background-color: #ffffff;
+    border-color: #09131a;
+}
